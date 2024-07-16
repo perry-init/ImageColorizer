@@ -1,0 +1,1 @@
+The project aims to build a model using Pytorch that is able to take a grayscale image and generate its colored counterpart. The input RGB image is converted in LAB, then the L channel is used as the input and the AB channels are objective to approximate.
